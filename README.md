@@ -56,7 +56,7 @@ The goal was to design an **interactive, insight-driven Power BI report** to hel
 ---
 
 ## 🖼️ Dashboard Preview  
-![AdventureWorks Dashboard Preview](./31f1d86d-d566-482a-83f0-0a0d2b7d07c8.png)
+![AdventureWorks Dashboard Preview](AdventureWorks DASHBOARD.png)
 
 ---
 
