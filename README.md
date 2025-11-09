@@ -56,7 +56,7 @@ The goal was to design an **interactive, insight-driven Power BI report** to hel
 ---
 
 ## 🖼️ Dashboard Preview  
-![AdventureWorks Dashboard Preview](AdventureWorks DASHBOARD.png)
+![AdventureWorks Dashboard Preview]([AdventureWorks DASHBOARD.png](https://github.com/iprateekpal/Retail-store-visualisation-using-Power-BI/blob/84c0f684c456059156930108ba4cf2361f7cf4ab/AdventureWorks%20DASHBOARD.png))
 
 ---
 
